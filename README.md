@@ -1,2 +1,2 @@
 # CoffeMaker
-Vending Coffe Machine
+Vending Coffee Machine
