@@ -1,2 +1,2 @@
-# CoffeMaker
+# CoffeeMaker
 Vending Coffee Machine
